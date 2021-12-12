@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Joel John Joseph\Desktop\proj\ML</_PublishTargetUrl>
+    <History>True|2021-11-13T12:02:46.5714324Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/AddStaff.aspx">
+      <publishTime>11/13/2021 17:14:13</publishTime>
+    </File>
+    <File Include="Admin/Admin.Master">
+      <publishTime>11/13/2021 16:41:22</publishTime>
+    </File>
+    <File Include="Admin/AdminHome.aspx">
+      <publishTime>11/13/2021 16:36:00</publishTime>
+    </File>
+    <File Include="Admin/DoctorRegistrationForm.aspx">
+      <publishTime>11/13/2021 17:16:01</publishTime>
+    </File>
+    <File Include="Admin/ManageClinic.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>11/13/2021 16:36:00</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>11/13/2021 16:36:00</publishTime>
+    </File>
+    <File Include="bin/DBProject.dll">
+      <publishTime>11/13/2021 17:32:45</publishTime>
+    </File>
+    <File Include="bin/DBProject.pdb">
+      <publishTime>11/13/2021 17:32:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/13/2021 16:36:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>11/13/2021 16:36:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>11/13/2021 16:36:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 20:45:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>11/13/2021 16:36:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>11/13/2021 16:36:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>11/13/2021 16:36:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/13/2021 16:36:13</publishTime>
+    </File>
+    <File Include="Doctor/Bill.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Doctor/DoctorHome.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Doctor/DoctorMaster.Master">
+      <publishTime>11/13/2021 16:45:14</publishTime>
+    </File>
+    <File Include="Doctor/HistoryUpdate.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Doctor/PatientHistory.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Doctor/PendingAppointment.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Doctor/PreviousHistory.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/13/2021 16:36:00</publishTime>
+    </File>
+    <File Include="Patient/AppointmentRequestSent.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/AppointmentTaker.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/BillsHistory.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/CurrentAppointment.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/DoctorProfile.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/PatientFeedback.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/PatientHome.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/PatientMaster.Master">
+      <publishTime>11/13/2021 16:45:09</publishTime>
+    </File>
+    <File Include="Patient/PatientNotifications.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/TakeAppointment.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/TreatmentHistory.aspx">
+      <publishTime>11/13/2021 16:36:01</publishTime>
+    </File>
+    <File Include="Patient/ViewDoctors.aspx">
+      <publishTime>11/13/2021 16:36:02</publishTime>
+    </File>
+    <File Include="SignUp.aspx">
+      <publishTime>11/13/2021 16:39:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/13/2021 17:32:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
